@@ -1,0 +1,40 @@
+#main {
+    height: 350px;
+    width: 210px;
+    background-color: rgb(22, 121, 209);
+    margin: auto;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin: auto;
+    padding: 2px;
+}
+
+#one {
+    background-color: red;
+}
+
+#two {
+    background-color: green;
+}
+
+#three {
+    background-color: yellow;
+}
+hr{
+    border: 2px solid black;
+   
+    height: 145px;
+    width: 30px;
+    margin: auto;
+    background-color: black;
+    border: none;
+}
